@@ -1,0 +1,14 @@
+*.class
+
+.vscode/
+.idea/
+*.iml
+.metadata/
+
+bin/
+target/
+out/
+
+.DS_Store
+
+*.log
