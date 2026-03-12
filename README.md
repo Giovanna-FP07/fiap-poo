@@ -4,7 +4,7 @@
 
 Este projeto simula o funcionamento de um Bilhete Único, representando regras básicas de validação de entrada em transporte público.
 
-O sistema foi desenvolvido utilizando Programação Orientada a Objetos (POO) em Java, aplicando conceitos como classe e objeto, atributos, métodos, regras de negócio, organização lógica e controle de estado.
+Esta é a junção da atividade 1, 2 e 3 desenvolvida nas últimas aulas. O sistema foi desenvolvido utilizando Programação Orientada a Objetos (POO) em Java, aplicando conceitos como implementação de classes, métodos. getters/setters e encapsulamento.
 
 ---
 
