@@ -12,7 +12,7 @@ Esta é a junção da atividade 1, 2 e 3 desenvolvida nas últimas aulas. O sist
 
 1. Clone este repositório
 
-```java
+```
  https://github.com/Giovanna-FP07/fiap-poo.git
 ```
 
